@@ -2,7 +2,14 @@ from sympy.solvers import solve
 from sympy import Symbol
 
 x = Symbol("x")
+#onisaldjfpni
+#sldjfoa
+#dfj
 
+#sdafoniw
+
+
+#adfponweinjflkjs
 #Three equations
 print(solve(x ** 2 - 1, x))
 print(solve(x ** 3 + x ** 2 + x + 1, x))
